@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Big Compute for Drug Design
+![alt text](Banner.jpg "Title")
