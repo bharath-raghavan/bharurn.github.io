@@ -9,6 +9,10 @@ author_profile: true
 
 ![Experience Image](../images/Experience.jpg)
 
+![RWTH FZJ Logo](../images/rwth_fzj.png)  Doctor rerum naturalium (Dr. rer. nat.) in Biophysics	Oct 2020 – Current
+ADVISOR: Prof. Dr. Paolo Carloni
+THESIS (Tentative Title): High Performance Computing for Glioma Therapy – Scalable Quantum Simulations of the IDH1 Enzyme
+
 ![CMU Logo](../images/cmu.png)  Master of Science (MS) in Colloids, Polymers and Surfaces (GPA: 3.95/4.0)
 ADVISOR: Prof. Hyung J. Kim
 THESIS: Theoretical Study of Transesterification of Cellulose Biopolymer in Ionic Liquids
