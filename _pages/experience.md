@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /experience.html
+permalink: /experience/
 redirect_from: 
   - /experience/
   - /experience.html
