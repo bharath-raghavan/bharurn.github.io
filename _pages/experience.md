@@ -7,4 +7,4 @@ redirect_from:
 author_profile: true
 ---
 
-![Experience Image](images/Experience.jpg)
+![Experience Image](../images/Experience.jpg)
