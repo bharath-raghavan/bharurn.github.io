@@ -37,7 +37,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/ril.png"  width="20%" height="10%"/>\
+<img src="../images/ril.png"  width="25%" height="12%"/>\
 \
 **Graduate Engineering Trainee**\
 **Duration:** July 2017 – May 2018\
