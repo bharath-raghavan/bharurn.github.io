@@ -15,9 +15,11 @@ I have a diverse work/education experience, having been involved with institutio
 <img src="../images/Experience.jpg"  width="60%" height="40%">
 </p>
 
-<img src="../images/rwth_fzj.png"  width="40%" height="20%"> <div style="text-align: right"> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics	Oct 2020 – Current
+<img src="../images/rwth_fzj.png"  width="40%" height="20%">
+<div style="text-align: right"> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics	Oct 2020 – Current
 ADVISOR: Prof. Dr. Paolo Carloni
-THESIS (Tentative Title): High Performance Computing for Glioma Therapy – Scalable Quantum Simulations of the IDH1 Enzyme</div>
+THESIS (Tentative Title): High Performance Computing for Glioma Therapy – Scalable Quantum Simulations of the IDH1 Enzyme
+</div>
 
 <img src="../images/cmu.png"  width="40%" height="20%">  Master of Science (MS) in Colloids, Polymers and Surfaces (GPA: 3.95/4.0)
 ADVISOR: Prof. Hyung J. Kim
