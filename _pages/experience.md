@@ -11,22 +11,12 @@ author_profile: true
 I have a diverse work/education experience, having been involved with institutions in India, the United States and Germany. I also have a diverse training in computational chemistry, machine learning & data science, high performance computing, software dvelopment, physical chemistry and pharmaceutical biochemistry.
 </div>
   
-<p align="center">
 <img src="../images/Experience.jpg"  width="60%" height="40%">
-</p>
 
-<p align="center">
-<img style="float: center;" src="../images/rwth_fzj.png"  width="20%" height="10%"/>
-</p>
-<br>
-<div style="text-align: left"> <b> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics </b>
-  <br>
-  <b>Duration:</b> Oct 2020 – Current
-  <br>
-  <b>Advisor:</b> Prof. Dr. Paolo Carloni
-  <br>
-  <b> Thesis (Tentative Title):</b> Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
-</div>
+<img src="../images/rwth_fzj.png"  width="40%" height="20%"/>
+**Duration:** Oct 2020 – Current
+**Advisor:** Prof. Dr. Paolo Carloni
+**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
 
 <img style="float: center;" src="../images/cmu.png"  width="40%" height="20%"/>  
 <br>
