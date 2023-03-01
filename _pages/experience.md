@@ -15,7 +15,7 @@ I have a diverse work/education experience, having been involved with institutio
 <img src="../images/Experience.jpg"  width="60%" height="40%">
 </p>
 
-<img style="float: left;" src="../images/rwth_fzj.png"  width="40%" height="20%">
+<img style="float: left;" src="../images/rwth_fzj.png"  width="40%" height="20%"/>
 <div style="text-align: right"> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics	Oct 2020 – Current
 ADVISOR: Prof. Dr. Paolo Carloni
 THESIS (Tentative Title): Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
