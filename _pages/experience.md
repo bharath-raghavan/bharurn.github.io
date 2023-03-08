@@ -23,7 +23,7 @@ I have a diverse work/education experience, having been involved with institutio
 **Duration:** Oct 2020 – Current\
 **Location:** Aachen, Germany\
 **Advisor(s):** [Prof. Dr. Paolo Carloni](https://www.fz-juelich.de/profile/carloni_p)\
-**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of Cancer-Associtaed IDH1
+**Thesis (Tentative Title):** High Performance Computing for Drug Design – Scalable Quantum Simulations of the Cancer-Associated IDH1 Enzyme
 
 ---
 
