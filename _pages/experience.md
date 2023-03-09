@@ -30,20 +30,10 @@ I have a diverse work/education experience, having been involved with institutio
 <img src="../images/fzj.png"  width="30%" height="15%"/>\
 \
 **Doctoral Student**\
-**Duration:** Aug 2020 – Current\
+**Duration:** Feb 2020 – Current\
 **Location:** Jülich, Germany\
 **Advisor(s):** [Prof. Dr. Paolo Carloni](https://www.fz-juelich.de/profile/carloni_p) & [Dr. Marco De Vivo](https://www.iit.it/people-details/-/people/marco-devivo)\
-**Work:** Work Towards Doctoral Thesis within the Computational Biomedicine Institute (IAS-5/INM-9)
-
----
-
-<img src="../images/fzj.png"  width="30%" height="15%"/>\
-\
-**Research Assistant**\
-**Duration:** Feb 2020 – Aug 2020\
-**Location:** Jülich, Germany\
-**Advisor(s):** [Prof. Dr. Paolo Carloni](https://www.fz-juelich.de/profile/carloni_p) & [Dr. Marco De Vivo](https://www.iit.it/people-details/-/people/marco-devivo)\
-**Work:** Performed Classical Molecular Dynamics Simulations and Analysis of Wild Type and (Cancer-Associated) Mutant IDH1 Enzyme
+**Work:** Performed Research Towards Doctoral Thesis within the Computational Biomedicine Institute (IAS-5/INM-9)
 
 ---
 
