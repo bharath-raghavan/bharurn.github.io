@@ -17,7 +17,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/rwth.png"  width="30%" height="15%"/>\
+<img src="../images/rwth.png"  width="40%" height="22%"/>\
 \
 **Doctor rerum naturalium (Dr. rer. nat.) in Physics**\
 **Duration:** Oct 2020 – Current\
