@@ -16,7 +16,7 @@ I am involved in research activities dealing with quantum chemistry, machine/dee
 </p>
 
 <div style="text-align: justify">
-I am involved in the <a href="https://mimic-project.org/en/latest/">MiMiC project</a> together with <a href="https://www.fz-juelich.de/profile/carloni_p">Prof. Dr. Paolo Carloni</a>, <a href="https://orbit.dtu.dk/en/persons/jógvan-magnus-haugaard-olsen">Dr. Jógvan Magnus Haugaard Olsen</a> and <a href="https://www.epfl.ch/labs/lcbc/roethlisberger/">Prof. Ursula Röthilsberger</a>. The MiMiC framework is an open-source, general platform that enables the implementation of multiscale computational (bio)chemistry simulation methods through coupling of multiple external programs, designed for massively parallel applications with a multiple-programs multiple-data model. The program is written in a combination of Fortran and C++, and parallelization achieved with a hybrid MPI/OpenMP approach. Currently, MiMiC couples the CPMD and GROMACS codes to perform highly scalable QM/MM biomolecular simulations on HPC systems.
+I am involved in the <a href="https://mimic-project.org/en/latest/">MiMiC project</a> together with <a href="https://www.fz-juelich.de/profile/carloni_p">Prof. Dr. Paolo Carloni</a>, <a href="https://orbit.dtu.dk/en/persons/jógvan-magnus-haugaard-olsen">Dr. Jógvan Magnus Haugaard Olsen</a> and <a href="https://www.epfl.ch/labs/lcbc/roethlisberger/">Prof. Ursula Röthilsberger</a>. The MiMiC framework is an open-source, general platform that enables the implementation of multiscale computational (bio)chemistry simulation methods through coupling of multiple external programs, designed for massively parallel applications with a multiple-programs multiple-data model. The program is written in a combination of Fortran and C++, and parallelizaed with a hybrid MPI/OpenMP approach. Currently, MiMiC couples the CPMD and GROMACS codes to perform highly scalable QM/MM biomolecular simulations on HPC systems.
 <br>
 <br>
 I am the lead developer of <a href="[url](https://mimic-project.org/en/latest/mimicpy/overview.html)">MiMiCPy</a>, an open-source Python toolkit as a companion to MiMiC. The code greatly simplifies the preparation and debugging of MiMiC-based QM/MM input files via a user-friendly interface. It provides an extensive list of command-line tools with an easy-to-use selection language to pick out the QM region. Plugins for PyMOL and VMD alow the selection of complex QM regions visually. MiMiCPy can also be used as a Python library, allowing one to develop complex workflows to set up MiMiC-based QM/MM simulations. The package has been designed with a modular and object-oriented approach. This allows one (i) to easily support new topology and coordinate file formats from different programs, when they become available in MiMiC; (ii) to develop new tools as MiMiC expands its functionalities.
@@ -32,13 +32,4 @@ I was involved in early efforts to couple MiMiC-QM/MM simulations with machine l
   <img src="hepp.png" width="430" height="200"/>
 </p>
 
-My Doctral thesis is conducted within the Helmholtz European Partnering Project between Forschungszentrum Juelich and Italian Institute of Technology. The main goal is computational drug design against neuroloigcal diseases and glioma by targeting the protein Isocitrate Dehydrogenase.
-
-My contributions:
-
-- To do
-- To do
-
-Skills demonstrated:
-- Clustering..
-- To do
+TODO
