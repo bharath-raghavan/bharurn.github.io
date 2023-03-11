@@ -63,7 +63,7 @@ I have a diverse work/education experience, having been involved with institutio
 **Duration:** May – June 2018\
 **Location:** Prayagraj, India\
 **Advisor(s):** [Prof. Pinaki Majumdar](https://www.hri.res.in/people/Physics/pinaki)\
-**Work:** Tight binding simulations of condensed matter systems
+**Work:** Tight Binding Simulations of Condensed Matter Systems
 
 ---
 
