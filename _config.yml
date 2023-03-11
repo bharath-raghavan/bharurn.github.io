@@ -77,7 +77,7 @@ analytics:
 author:
   name             : "Bharath Raghavan"
   avatar           : "profile.png"
-  bio              : "Interested in the convergence of Artifical Intelligence, Quantum Simulations & Supercomputing for Drug Design/Discovery<br><a href="mailto:{{ 'b.raghavan@fz-juelich.de' | encode_email }}">Contact me</a>"
+  bio              : "Interested in the convergence of Artifical Intelligence, Quantum Simulations & Supercomputing for Drug Design/Discovery"
   employer         : "Forschungszentrum J&uuml;lich"
   linkedin         : "braghava"
   googlescholar    : "https://scholar.google.com/citations?user=nqi44wUAAAAJ&hl=en"
