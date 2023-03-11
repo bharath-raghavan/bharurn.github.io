@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Software Design for Biochemical Simulations on Supercomputers
+# Software for Biochemistry on Supercomputers
 
 <p align="center">
   <img src="../images/Research1.jpg" width="90%" height="65%"/>
