@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Big Compute for Drug Design"
+title: "Supercomputing for Drug Design"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ redirect_from:
 With the high research costs and expensive failure rates of the drug design & discovery process, computational methods have been increasingly exploited by both academia and the pharmaceutical industry. The COVID pandemic has exemplified the need for a "lightspeed approach" to drug design, a problem for which computational methods are well-suited to address.
 <br>
 <br>
-The <b>Big Data</b> revolution of the past decade has hugely increased the efficacy of computational drug design and virtual screening techniques. However with the advent of faster supercomputers and exascale computation, we are witnessing a renewed look at heavier physics-based algorithms--the <b>Big Compute</b> revolution. Can we take advantage of this coming revolution to upgrade drug design to the next level?
+The <b>Big Data</b> revolution of the past decade has hugely increased the efficacy of computational drug design and virtual screening techniques. However with the advent of faster supercomputers and exascale computation, we are witnessing a renewed look at heavier physics-based algorithms--<b>Big Compute</b> and the <b/>Exascale</b> revolution. Can we take advantage of this coming revolution to upgrade drug design to the next level?
 <br>
 <br>
 <b>About</b>
