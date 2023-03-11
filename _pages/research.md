@@ -23,7 +23,7 @@ I am the lead developer of <a href="[url](https://mimic-project.org/en/latest/mi
 I was involved in early efforts to couple MiMiC-QM/MM simulations with machine learning-based force fields. This was carried out as part of the Helmholtz GPU Hackathon 2020 in collaboration with Andrea Rizzi, Florian Schakerth and Viacheslav Bolynkh. I designed a MiMiC data reader for the <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.9b00994">PiNN library</a>, and contributed to parallelization efforts of the tensorflow-based atomic neural network on multiple GPUs. I also contribute to testing, documentation and communication activities related to MiMiC. I spearheaded training activities at the <a href="https://www.cecam.org/workshop-details/1119">CECAM Flagship School on MiMiC</a> held at the École Polytechnique Fédérale de Lausanne (EPFL) on 18 to 22 July 2022 and the <a href="https://flagship.kip.uni-heidelberg.de/jss/HBPm?m=showAgenda&meetingID=242">Simulate with EBRAINS</a> event held by the Human Brian Project on 10th Nov 2022.
 </div>
 
-# Quantum Chemistry-Based Drug Design with High Performance Computing
+# High Performance Computing-Based Quantum Chemistry Against Glioma
 
 <p align="center">
   <img src="hepp.png" width="430" height="200"/>
