@@ -1,6 +1,6 @@
 locale                   : "en-US"
 title                    : "Bharath Raghavan"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Bharath Raghavan"
 description              : &description "personal description"
 url                      : http://www.bharathraghavan.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
